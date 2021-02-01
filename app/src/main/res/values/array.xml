@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="spinnertype">
+        <item>默认查询所有数据</item>
+        <item>水果</item>
+        <item>蔬菜</item>
+        <item>酒水乳饮</item>
+        <item>零食</item>
+    </string-array>
+    <string-array name="spinnerDelivery">
+        <item>配送方式</item>
+        <item>同城配送</item>
+        <item>普通快递</item>
+    </string-array>
+
+
+</resources>
