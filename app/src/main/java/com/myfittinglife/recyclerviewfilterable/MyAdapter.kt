@@ -56,7 +56,7 @@ class MyAdapter(data: MutableList<MyBean>) :
     }
 
 
-    //查看更多布局
+    
     inner class MyViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
         //商品名称
         var name: TextView = itemView.findViewById(R.id.tvName)
